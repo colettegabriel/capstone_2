@@ -5,7 +5,7 @@
 0.368202975,4191,Beverage,Pepsi,California,United States,Email,9/1/2014,10/1/2014,10/1/2014,2,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.972313957,14476,Biscuit,Arbo,Utah,United States,Email,26-01-2014,12/2/2014,12/2/2014,3,200000,USD 100000 - 249999,USD 200000 and above,0 to 10,None,0,0.232143,0.767857,1,No
 0.698864289,24628,Biscuit,Covenant,Washington,United States,Email,11/1/2014,18-01-2014,18-01-2014,2,60000,USD 0 - 9999,USD 0,11 to 20,Known,0,1,0,1,No
-0.260192943,45949,Beverage,Pepsi,Utah,United States,Email,9/1/2014,13-02-2014,13-02-2014,9,110000,USD 25000 - 49999,USD 0,41 and above,Known,0.876081,0.123919,0,1,No
+0.260192943,45949,Beverage,Pepsi,Utah,United States,Email,9/1/2014,13-02-2014,13-02-2014,9,110000,USD 25000 - 49999,USD 0,41 and above,Known,0.876081,0.123919,0,1,Yes
 0.750484091,13700,Biscuit,Arbo,Texas,United States,Email,4/1/2014,4/1/2014,4/1/2014,2,75000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,No
 0.228086227,25980,Biscuit,Arbo,Utah,United States,Email,14-01-2014,3/2/2014,3/2/2014,2,101000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.255220111,4028,Biscuit,Ritz,California,United States,Email,16-01-2014,18-01-2014,18-01-2014,2,50000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
@@ -16,7 +16,7 @@
 0.224919046,12672,Biscuit,Arbo,California,United States,Email,15-01-2014,26-01-2014,26-01-2014,2,750000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.087643868,4189,Biscuit,Covenant,Montana,United States,Email,29-01-2014,4/2/2014,4/2/2014,2,50000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.899519379,35560,Beverage,Fanta,Arizona,United States,Email,29-01-2014,8/2/2014,8/2/2014,2,100000,USD 10000 - 24999,USD 0,0 to 10,Unknown,1,0,0,1,No
-0.617554642,41758,Biscuit,Nabisco,California,United States,Email,22-01-2014,3/2/2014,3/2/2014,2,155014,USD 0 - 9999,USD 25000 - 99999,0 to 10,Unknown,1,0,0,1,No
+0.617554642,41758,Biscuit,Nabisco,California,United States,Email,22-01-2014,3/2/2014,3/2/2014,2,155014,USD 0 - 9999,USD 25000 - 99999,0 to 10,Unknown,1,0,0,1,Yes
 0.442893311,25207,Beverage,Coca Cola,Texas,United States,Email,11/1/2014,7/4/2014,7/4/2014,5,150000,USD 100000 - 249999,USD 0,41 and above,Unknown,0.298957,0.701043,0,1,No
 0.251944346,39848,Biscuit,Nabisco,Texas,United States,Email,27-01-2014,2/2/2014,2/2/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.569065277,7847,Beverage,Fanta,Texas,United States,Email,24-01-2014,25-02-2014,25-02-2014,2,400000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,0,1,0,1,No
@@ -25,7 +25,7 @@
 0.741343666,22838,Beverage,Fanta,California,United States,Email,6/1/2014,10/1/2014,10/1/2014,3,890000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,1,1,Yes
 0.263962161,16850,Biscuit,Ritz,Texas,United States,Email,25-01-2014,1/2/2014,1/2/2014,2,40000,USD 0 - 9999,USD 0,0 to 10,None,1,0,0,1,No
 0.514036995,44432,Biscuit,Covenant,Arizona,United States,Email,11/1/2014,20-01-2014,20-01-2014,4,47000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.280899,0.359551,0.359551,1.000001,No
-0.399796084,33876,Beverage,Fanta,Washington,United States,Email,5/1/2014,7/1/2014,7/1/2014,2,1162,USD 100000 - 249999,USD 0,21 to 30,Unknown,1,0,0,1,No
+0.399796084,33876,Beverage,Fanta,Washington,United States,Email,5/1/2014,7/1/2014,7/1/2014,2,1162,USD 100000 - 249999,USD 0,21 to 30,Unknown,1,0,0,1,Yes
 0.243943333,31982,Beverage,Coca Cola,Arizona,United States,Email,16-01-2014,16-01-2014,17-01-2014,2,3061,USD 0 - 9999,USD 0,0 to 10,None,0,0,0,0,No
 0.993660097,30513,Biscuit,Chips Ahoy,Montana,United States,Email,9/1/2014,17-01-2014,17-01-2014,2,30000,USD 0 - 9999,USD 0,41 and above,Known,0,1,0,1,No
 0.0313513,23998,Beverage,Fanta,Utah,United States,Email,21-01-2014,6/2/2014,6/2/2014,4,92024,USD 0 - 9999,USD 0,0 to 10,Unknown,0.006173,0.993827,0,1,No
@@ -37,9 +37,9 @@
 0.773435037,7000,Biscuit,Nabisco,Utah,United States,Email,3/1/2014,16-01-2014,16-01-2014,3,50000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.213888699,11079,Biscuit,Arbo,Washington,United States,Email,4/1/2014,3/2/2014,3/2/2014,6,90000,USD 0 - 9999,USD 25000 - 99999,41 and above,Known,0,0.513245,0.486755,1,Yes
 0.869522508,18323,Biscuit,Chips Ahoy,Oregon,United States,Email,15-01-2014,20-01-2014,20-01-2014,2,105000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
-0.752027158,26064,Beverage,Coca Cola,California,United States,Email,21-01-2014,26-01-2014,26-01-2014,2,1000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
-0.271520815,8062,Biscuit,Covenant,Texas,United States,Email,3/1/2014,3/1/2014,3/1/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,No
-0.373567343,7976,Biscuit,Ritz,Utah,United States,Email,5/1/2014,13-01-2014,13-01-2014,2,131000,USD 100000 - 249999,USD 0,31 to 40,Unknown,1,0,0,1,No
+0.752027158,26064,Beverage,Coca Cola,California,United States,Email,21-01-2014,26-01-2014,26-01-2014,2,1000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,Yes
+0.271520815,8062,Biscuit,Covenant,Texas,United States,Email,3/1/2014,3/1/2014,3/1/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,Yes
+0.373567343,7976,Biscuit,Ritz,Utah,United States,Email,5/1/2014,13-01-2014,13-01-2014,2,131000,USD 100000 - 249999,USD 0,31 to 40,Unknown,1,0,0,1,Yes
 0.965520443,17948,Beverage,Fanta,Montana,United States,Email,3/1/2014,13-01-2014,13-01-2014,4,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.214286,0.785714,0,1,No
 0.325449424,36913,Beverage,Coca Cola,California,United States,Email,10/1/2014,10/1/2014,10/1/2014,1,124011,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,No
 0.088570653,9674,Biscuit,Chips Ahoy,California,United States,Email,4/1/2014,4/1/2014,4/1/2014,2,40303,USD 0 - 9999,USD 25000 - 99999,0 to 10,Unknown,0,0,1,1,No
@@ -61,7 +61,7 @@
 0.441303763,25142,Biscuit,Chips Ahoy,Oregon,United States,Email,11/1/2014,26-01-2014,26-01-2014,5,215000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.906667,0.093333,1,No
 0.587058164,28197,Beverage,Fanta,Oregon,United States,Email,1/1/2014,2/2/2014,2/2/2014,2,50000,USD 0 - 9999,USD 0,0 to 10,None,0,1,0,1,No
 0.975309765,23950,Biscuit,Covenant,Oregon,United States,Email,23-01-2014,6/2/2014,6/2/2014,3,120000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.992701,0.007299,0,1,No
-0.483433549,7178,Biscuit,Covenant,Oregon,United States,Email,18-01-2014,21-01-2014,21-01-2014,2,15000,USD 50000 - 99999,USD 0,41 and above,Unknown,1,0,0,1,No
+0.483433549,7178,Biscuit,Covenant,Oregon,United States,Email,18-01-2014,21-01-2014,21-01-2014,2,15000,USD 50000 - 99999,USD 0,41 and above,Unknown,1,0,0,1,Yes
 0.802161289,13313,Beverage,Coca Cola,California,United States,Email,17-01-2014,24-02-2014,24-02-2014,2,110000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.346310114,41630,Biscuit,Ritz,Oregon,United States,Email,12/1/2014,18-01-2014,18-01-2014,2,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.685730569,41361,Biscuit,Covenant,Oregon,United States,Email,5/1/2014,1/3/2014,1/3/2014,6,50000,USD 100000 - 249999,USD 0,41 and above,Known,0.023853,0.242202,0.733945,1,No
@@ -79,7 +79,7 @@
 0.854081425,36198,Biscuit,Covenant,Utah,United States,Email,6/1/2014,6/1/2014,6/1/2014,2,70000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.291771339,23757,Biscuit,Arbo,Utah,United States,Email,17-01-2014,8/3/2014,8/3/2014,3,110000,USD 50000 - 99999,USD 0,11 to 20,Known,0.688889,0.311111,0,1,No
 0.789175836,12587,Beverage,Coca Cola,California,United States,Email,24-01-2014,24-01-2014,24-01-2014,1,2089,USD 0 - 9999,USD 0,0 to 10,None,0,0,0,0,Yes
-0.78886634,1470,Biscuit,Nabisco,Texas,United States,Email,19-01-2014,28-01-2014,1/2/2014,6,103000,USD 0 - 9999,USD 0,0 to 10,None,0,0.453125,0.242188,0.695313,No
+0.78886634,1470,Biscuit,Nabisco,Texas,United States,Email,19-01-2014,28-01-2014,1/2/2014,6,103000,USD 0 - 9999,USD 0,0 to 10,None,0,0.453125,0.242188,0.695313,Yes
 0.488032716,13792,Beverage,Coca Cola,Utah,United States,Email,3/1/2014,5/1/2014,5/1/2014,3,12000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.55760274,17985,Beverage,Pepsi,Washington,United States,Email,21-01-2014,21-01-2014,21-01-2014,2,100000,USD 0 - 9999,USD 0,31 to 40,Unknown,0,0,0,0,No
 0.786764762,25972,Biscuit,Oreo,Utah,United States,Email,26-01-2014,27-02-2014,28-02-2014,6,120000,USD 50000 - 99999,USD 0,31 to 40,Unknown,0.106383,0.255319,0.610942,0.972644,Yes
@@ -92,7 +92,7 @@
 0.204863073,38277,Beverage,Coca Cola,Utah,United States,Email,17-01-2014,15-02-2014,15-02-2014,6,50000,USD 100000 - 249999,USD 0,11 to 20,Unknown,0.063158,0.070175,0.866667,1,No
 0.419695613,2919,Biscuit,Ritz,Utah,United States,Email,2/1/2014,7/1/2014,7/1/2014,3,1000000,USD 10000 - 24999,USD 0,41 and above,Unknown,0,1,0,1,No
 0.284669026,33605,Biscuit,Nabisco,Utah,United States,Email,19-01-2014,25-01-2014,25-01-2014,2,100000,USD 10000 - 24999,USD 0,21 to 30,Unknown,0,1,0,1,No
-0.623052034,9743,Beverage,Fanta,Utah,United States,Email,27-01-2014,1/2/2014,1/2/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.623052034,9743,Beverage,Fanta,Utah,United States,Email,27-01-2014,1/2/2014,1/2/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.684609274,16764,Biscuit,Covenant,Arizona,United States,Email,2/1/2014,3/1/2014,10/1/2014,3,2266,USD 0 - 9999,USD 100000 - 199999,0 to 10,Unknown,0.118421,0,0,0.118421,Yes
 0.623416788,4438,Beverage,Coca Cola,California,United States,Email,23-01-2014,5/2/2014,5/2/2014,2,108510,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
 0.968162447,31836,Beverage,Coca Cola,California,United States,Email,10/1/2014,12/2/2014,12/2/2014,3,100000,USD 100000 - 249999,USD 0,11 to 20,None,0,0.128834,0.871166,1,No
@@ -112,8 +112,8 @@
 0.351832357,1921,Beverage,Pepsi,Utah,United States,Email,12/1/2014,16-01-2014,17-01-2014,3,46012,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.826923,0,0.826923,Yes
 0.228016471,42345,Beverage,Pepsi,Utah,United States,Email,3/1/2014,27-01-2014,27-01-2014,2,80000,USD 0 - 9999,USD 0,31 to 40,Unknown,1,0,0,1,No
 0.102794267,5687,Beverage,Pepsi,Utah,United States,Email,30-01-2014,3/2/2014,3/2/2014,2,306748,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
-0.625052108,44389,Biscuit,Ritz,Utah,United States,Email,23-01-2014,17-02-2014,17-02-2014,2,122699,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
-0.543468967,30506,Biscuit,Oreo,Utah,United States,Email,14-01-2014,27-02-2014,27-02-2014,2,110000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,0,1,0,1,No
+0.625052108,44389,Biscuit,Ritz,Utah,United States,Email,23-01-2014,17-02-2014,17-02-2014,2,122699,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,Yes
+0.543468967,30506,Biscuit,Oreo,Utah,United States,Email,14-01-2014,27-02-2014,27-02-2014,2,110000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,0,1,0,1,Yes
 0.246404279,5844,Biscuit,Nabisco,Oregon,United States,Email,18-01-2014,2/2/2014,2/2/2014,2,50000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.736248988,139,Biscuit,Covenant,Washington,United States,Email,10/1/2014,10/1/2014,11/1/2014,2,27000,USD 0 - 9999,USD 25000 - 99999,0 to 10,Unknown,0,0,0,0,Yes
 0.975749254,15695,Biscuit,Covenant,Utah,United States,Email,15-01-2014,1/2/2014,1/2/2014,3,9815,USD 0 - 9999,USD 25000 - 99999,0 to 10,Unknown,0,0.770588,0.229412,1,Yes
@@ -132,7 +132,7 @@
 0.154493719,13395,Biscuit,Oreo,Washington,United States,Email,21-01-2014,25-01-2014,25-01-2014,2,1,USD 0 - 9999,USD 0,41 and above,None,0,0,1,1,No
 0.116201394,42635,Biscuit,Arbo,California,United States,Email,26-01-2014,6/2/2014,6/2/2014,2,105000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.281344364,37544,Biscuit,Nabisco,California,United States,Email,29-01-2014,6/2/2014,6/2/2014,3,20000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
-0.961975614,40410,Beverage,Fanta,Utah,United States,Email,18-01-2014,20-01-2014,20-01-2014,2,100000,USD 0 - 9999,USD 100000 - 199999,0 to 10,Known,0,1,0,1,No
+0.961975614,40410,Beverage,Fanta,Utah,United States,Email,18-01-2014,20-01-2014,20-01-2014,2,100000,USD 0 - 9999,USD 100000 - 199999,0 to 10,Known,0,1,0,1,Yes
 0.728976959,7635,Biscuit,Covenant,Utah,United States,Email,30-01-2014,18-03-2014,18-03-2014,2,30000,USD 25000 - 49999,USD 0,21 to 30,Unknown,0,1,0,1,No
 0.377172777,18028,Beverage,Coca Cola,Utah,United States,Email,31-01-2014,2/2/2014,3/2/2014,4,53375,USD 0 - 9999,USD 100000 - 199999,0 to 10,Known,0,0,0.571429,0.571429,Yes
 0.198763214,18080,Biscuit,Nabisco,Oregon,United States,Email,6/1/2014,9/2/2014,9/2/2014,3,130000,USD 100000 - 249999,USD 0,31 to 40,Unknown,0.797619,0.202381,0,1,No
@@ -147,7 +147,7 @@
 0.832539515,28256,Biscuit,Oreo,Oregon,United States,Email,1/1/2014,16-02-2014,16-02-2014,4,100000,USD 0 - 9999,USD 0,41 and above,Known,0,0.056399,0.943601,1,No
 0.463901021,18732,Milk,TruMoo,Oregon,United States,Email,17-01-2014,26-01-2014,26-01-2014,2,300000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.66646205,8656,Beverage,Coca Cola,Oregon,United States,Email,15-01-2014,6/2/2014,23-02-2014,8,52000,USD 10000 - 24999,USD 0,0 to 10,Known,0.022901,0.127226,0.407125,0.557252,No
-0.703261697,45657,Beverage,Fanta,Utah,United States,Email,9/1/2014,17-01-2014,17-01-2014,2,613496,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
+0.703261697,45657,Beverage,Fanta,Utah,United States,Email,9/1/2014,17-01-2014,17-01-2014,2,613496,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,Yes
 0.04224527,6069,Biscuit,Oreo,Utah,United States,Email,7/1/2014,4/3/2014,4/3/2014,2,250000,USD 0 - 9999,USD 0,21 to 30,Unknown,1,0,0,1,No
 0.900035596,43568,Beverage,Coca Cola,California,United States,Email,15-01-2014,25-01-2014,25-01-2014,4,105000,USD 100000 - 249999,USD 0,41 and above,Unknown,0.2,0.8,0,1,No
 0.217294379,1774,Biscuit,Nabisco,Oregon,United States,Email,22-01-2014,8/2/2014,8/2/2014,2,3000,USD 10000 - 24999,USD 0,11 to 20,None,1,0,0,1,No
@@ -167,8 +167,8 @@
 0.335789064,12497,Biscuit,Oreo,Texas,United States,Email,28-01-2014,28-01-2014,28-01-2014,1,20000,USD 25000 - 49999,USD 0,11 to 20,Unknown,0,0,0,0,No
 0.942696016,36147,Biscuit,Ritz,Arizona,United States,Email,4/1/2014,9/1/2014,9/1/2014,3,150000,USD 10000 - 24999,USD 0,0 to 10,Known,0.796296,0.203704,0,1,No
 0.823506008,17125,Biscuit,Ritz,California,United States,Email,8/1/2014,1/3/2014,1/3/2014,6,200000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.096712,0.903288,1,No
-0.148270566,7620,Biscuit,Nabisco,California,United States,Email,1/1/2014,5/1/2014,5/1/2014,2,15000,USD 10000 - 24999,USD 0,41 and above,Unknown,1,0,0,1,No
-0.37684907,12778,Biscuit,Ritz,Texas,United States,Email,13-01-2014,13-02-2014,13-02-2014,2,150000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.148270566,7620,Biscuit,Nabisco,California,United States,Email,1/1/2014,5/1/2014,5/1/2014,2,15000,USD 10000 - 24999,USD 0,41 and above,Unknown,1,0,0,1,Yes
+0.37684907,12778,Biscuit,Ritz,Texas,United States,Email,13-01-2014,13-02-2014,13-02-2014,2,150000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.781650864,16857,Biscuit,Oreo,Montana,United States,Email,12/1/2014,13-01-2014,13-01-2014,2,200000,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
 0.819254369,23959,Beverage,Fanta,Montana,United States,Email,3/1/2014,9/1/2014,9/1/2014,2,416,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.917219172,35449,Biscuit,Oreo,Montana,United States,Email,15-01-2014,15-01-2014,15-01-2014,2,150000,USD 25000 - 49999,USD 0,21 to 30,Unknown,1,0,0,1,No
@@ -193,7 +193,7 @@
 0.358595019,5912,Biscuit,Ritz,Arizona,United States,Email,26-01-2014,1/2/2014,1/2/2014,2,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.774212933,43500,Biscuit,Covenant,Utah,United States,Email,19-01-2014,25-01-2014,25-01-2014,4,57032,USD 50000 - 99999,USD 0,11 to 20,Unknown,0,0.183333,0.816667,1,Yes
 0.847746997,26193,Biscuit,Covenant,Oregon,United States,Email,27-01-2014,20-03-2014,24-05-2014,17,236624,USD 0 - 9999,USD 100000 - 199999,41 and above,Known,0.000854,0.137489,0.30316,0.441503,Yes
-0.032271947,35813,Beverage,Coca Cola,Utah,United States,Email,16-01-2014,16-03-2014,16-03-2014,2,150000,USD 25000 - 49999,USD 0,41 and above,Unknown,1,0,0,1,No
+0.032271947,35813,Beverage,Coca Cola,Utah,United States,Email,16-01-2014,16-03-2014,16-03-2014,2,150000,USD 25000 - 49999,USD 0,41 and above,Unknown,1,0,0,1,Yes
 0.97344073,45555,Biscuit,Oreo,Utah,United States,Email,24-01-2014,6/2/2014,6/2/2014,4,100000,USD 0 - 9999,USD 0,31 to 40,Known,0,0.023622,0.976378,1,No
 0.631360084,13344,Beverage,Fanta,Montana,United States,Email,17-01-2014,17-01-2014,17-01-2014,4,50000,USD 25000 - 49999,USD 0,21 to 30,None,0.25,0.75,0,1,No
 0.550539476,32742,Biscuit,Ritz,California,United States,Email,8/1/2014,18-01-2014,18-01-2014,2,38753,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
@@ -206,7 +206,7 @@
 0.459422641,44718,Biscuit,Arbo,Oregon,United States,Email,7/1/2014,16-01-2014,16-01-2014,4,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.148936,0.234043,0.617021,1,No
 0.559126498,33062,Biscuit,Nabisco,Arizona,United States,Email,1/1/2014,5/1/2014,5/1/2014,2,138880,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,1,1,No
 0.821120109,24935,Biscuit,Covenant,Montana,United States,Email,25-01-2014,3/2/2014,3/2/2014,2,150000,USD 0 - 9999,USD 100000 - 199999,0 to 10,Unknown,0,1,0,1,No
-0.491992345,42486,Beverage,Fanta,Arizona,United States,Email,21-01-2014,15-04-2014,15-04-2014,8,150000,USD 100000 - 249999,USD 200000 and above,0 to 10,Unknown,0.377672,0.5962,0.026128,1,No
+0.491992345,42486,Beverage,Fanta,Arizona,United States,Email,21-01-2014,15-04-2014,15-04-2014,8,150000,USD 100000 - 249999,USD 200000 and above,0 to 10,Unknown,0.377672,0.5962,0.026128,1,Yes
 0.600343871,26996,Beverage,Coca Cola,Montana,United States,Email,24-01-2014,24-01-2014,24-01-2014,1,0,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,No
 0.951319303,41313,Biscuit,Nabisco,Arizona,United States,Email,14-01-2014,31-01-2014,31-01-2014,3,90000,USD 100000 - 249999,USD 0,11 to 20,None,0,0.982353,0.017647,1,No
 0.57584302,31757,Biscuit,Covenant,Utah,United States,Email,26-01-2014,9/2/2014,9/2/2014,2,10000,USD 0 - 9999,USD 0,31 to 40,Unknown,0,1,0,1,No
@@ -219,7 +219,7 @@
 0.737845011,29378,Beverage,Pepsi,Texas,United States,Email,7/1/2014,24-01-2014,24-01-2014,3,110000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.072289,0.927711,0,1,No
 0.18724942,6785,Biscuit,Nabisco,Washington,United States,Email,15-01-2014,26-01-2014,26-01-2014,5,175000,USD 10000 - 24999,USD 0,31 to 40,Known,0.605263,0.087719,0.307018,1,Yes
 0.683586741,4582,Beverage,Fanta,Utah,United States,Email,29-01-2014,25-02-2014,25-02-2014,2,360000,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
-0.555971796,16321,Beverage,Fanta,Utah,United States,Email,20-01-2014,27-01-2014,27-01-2014,2,31000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
+0.555971796,16321,Beverage,Fanta,Utah,United States,Email,20-01-2014,27-01-2014,27-01-2014,2,31000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,Yes
 0.262578063,43940,Biscuit,Arbo,California,United States,Email,19-01-2014,27-02-2014,27-02-2014,4,287023,USD 0 - 9999,USD 0,0 to 10,Known,0.092545,0.025707,0.881748,1,Yes
 0.532817458,12670,Biscuit,Arbo,Utah,United States,Email,16-01-2014,17-01-2014,17-01-2014,4,5300,USD 100000 - 249999,USD 200000 and above,0 to 10,Unknown,0,0.909091,0,0.909091,Yes
 0.626565991,36049,Biscuit,Arbo,Texas,United States,Email,24-01-2014,16-04-2014,16-04-2014,4,200000,USD 0 - 9999,USD 0,31 to 40,Unknown,0,0.865854,0.134146,1,No
@@ -238,7 +238,7 @@
 0.825632535,22520,Biscuit,Nabisco,Washington,United States,Email,9/1/2014,21-01-2014,21-01-2014,2,63000,USD 0 - 9999,USD 100000 - 199999,0 to 10,Unknown,0,0,1,1,Yes
 0.630705124,7539,Biscuit,Ritz,Arizona,United States,Email,22-01-2014,28-01-2014,28-01-2014,3,228573,USD 25000 - 49999,USD 0,11 to 20,Unknown,0,1,0,1,No
 0.083980389,31593,Biscuit,Arbo,Arizona,United States,Email,24-01-2014,14-02-2014,14-02-2014,2,800000,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
-0.718804577,609,Biscuit,Covenant,Utah,United States,Email,11/1/2014,19-01-2014,19-01-2014,2,277,USD 0 - 9999,USD 1 - 24999,0 to 10,None,1,0,0,1,No
+0.718804577,609,Biscuit,Covenant,Utah,United States,Email,11/1/2014,19-01-2014,19-01-2014,2,277,USD 0 - 9999,USD 1 - 24999,0 to 10,None,1,0,0,1,Yes
 0.062705069,28542,Beverage,Fanta,Oregon,United States,Email,5/1/2014,26-01-2014,26-01-2014,2,120000,USD 0 - 9999,USD 25000 - 99999,0 to 10,Unknown,1,0,0,1,Yes
 0.500363636,13408,Biscuit,Covenant,Oregon,United States,Email,22-01-2014,12/2/2014,12/2/2014,5,200000,USD 0 - 9999,USD 0,0 to 10,Known,0.341121,0.158879,0.5,1,No
 0.1641557,31467,Biscuit,Chips Ahoy,Washington,United States,Email,11/1/2014,19-01-2014,20-01-2014,6,70000,USD 0 - 9999,USD 0,0 to 10,Known,0.448276,0.310345,0.206897,0.965518,Yes
@@ -408,7 +408,7 @@
 0.620512617,11250,Biscuit,Arbo,Arizona,United States,Email,17-01-2014,17-01-2014,17-01-2014,2,200000,USD 25000 - 49999,USD 0,41 and above,Unknown,0,0,0,0,No
 0.760925869,21939,Biscuit,Covenant,California,United States,Email,14-01-2014,6/2/2014,6/2/2014,3,150000,USD 0 - 9999,USD 0,0 to 10,Known,0.87013,0.12987,0,1,No
 0.556466516,38968,Beverage,Fanta,Utah,United States,Email,30-01-2014,9/2/2014,11/2/2014,4,627500,USD 100000 - 249999,USD 0,41 and above,Known,0.042735,0,0.837607,0.880342,No
-0.989424013,18943,Biscuit,Nabisco,Washington,United States,Email,31-01-2014,2/2/2014,2/2/2014,2,35000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,0,1,0,1,No
+0.989424013,18943,Biscuit,Nabisco,Washington,United States,Email,31-01-2014,2/2/2014,2/2/2014,2,35000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,0,1,0,1,Yes
 0.302169913,11501,Biscuit,Oreo,Utah,United States,Email,15-01-2014,7/2/2014,7/2/2014,2,97500,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.076556718,14773,Beverage,Coca Cola,Oregon,United States,Email,8/1/2014,15-02-2014,15-02-2014,6,40000,USD 100000 - 249999,USD 0,41 and above,Known,0.478947,0.181579,0.339474,1,No
 0.737104047,22811,Biscuit,Chips Ahoy,Utah,United States,Email,8/1/2014,13-03-2014,13-03-2014,2,55000,USD 100000 - 249999,USD 0,0 to 10,Unknown,1,0,0,1,No
@@ -432,7 +432,7 @@
 0.073014477,33944,Beverage,Coca Cola,Utah,United States,Email,23-01-2014,27-01-2014,31-01-2014,5,37475,USD 0 - 9999,USD 0,21 to 30,Unknown,0,0.337662,0.12987,0.467532,Yes
 0.316043835,3532,Biscuit,Covenant,Washington,United States,Email,20-01-2014,20-01-2014,20-01-2014,1,250000,USD 0 - 9999,USD 0,0 to 10,Known,0,0,0,0,No
 0.069197171,39713,Biscuit,Arbo,Utah,United States,Email,30-01-2014,13-02-2014,13-02-2014,2,250000,USD 0 - 9999,USD 100000 - 199999,0 to 10,Unknown,1,0,0,1,No
-0.214425007,24982,Biscuit,Chips Ahoy,Utah,United States,Email,31-01-2014,5/3/2014,5/3/2014,3,30000,USD 0 - 9999,USD 0,41 and above,Known,0.243077,0.756923,0,1,No
+0.214425007,24982,Biscuit,Chips Ahoy,Utah,United States,Email,31-01-2014,5/3/2014,5/3/2014,3,30000,USD 0 - 9999,USD 0,41 and above,Known,0.243077,0.756923,0,1,Yes
 0.178698611,8004,Biscuit,Nabisco,Oregon,United States,Email,20-01-2014,3/3/2014,3/3/2014,3,130000,USD 25000 - 49999,USD 200000 and above,41 and above,Known,0.183133,0.816867,0,1,No
 0.795253215,2174,Beverage,Fanta,Montana,United States,Email,6/1/2014,20-02-2014,20-02-2014,6,175000,USD 50000 - 99999,USD 0,0 to 10,Unknown,0.525612,0.474388,0,1,No
 0.765564671,23026,Biscuit,Oreo,Utah,United States,Email,4/1/2014,21-01-2014,21-01-2014,2,60000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
@@ -458,7 +458,7 @@
 0.268466399,16146,Beverage,Fanta,Texas,United States,Email,13-01-2014,16-01-2014,16-01-2014,2,105000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.476804068,25365,Biscuit,Ritz,Washington,United States,Email,12/1/2014,17-01-2014,17-01-2014,3,202409,USD 100000 - 249999,USD 0,21 to 30,Unknown,0.541667,0.458333,0,1,No
 0.139454022,10172,Beverage,Fanta,Montana,United States,Email,2/1/2014,20-01-2014,22-01-2014,6,95572,USD 0 - 9999,USD 25000 - 99999,0 to 10,Unknown,0.406863,0.25,0.220588,0.877451,Yes
-0.172099532,44125,Biscuit,Nabisco,Texas,United States,Email,3/1/2014,19-04-2014,19-04-2014,2,55000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.172099532,44125,Biscuit,Nabisco,Texas,United States,Email,3/1/2014,19-04-2014,19-04-2014,2,55000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.759880364,27999,Beverage,Coca Cola,Utah,United States,Email,30-01-2014,1/2/2014,1/2/2014,2,2000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,0,1,0,1,Yes
 0.906732431,5944,Biscuit,Nabisco,Utah,United States,Email,19-01-2014,5/2/2014,9/2/2014,3,55000,USD 10000 - 24999,USD 0,21 to 30,Known,0,0,0.8,0.8,No
 0.795144467,30589,Beverage,Fanta,Utah,United States,Email,26-01-2014,19-02-2014,20-02-2014,5,151101,USD 100000 - 249999,USD 200000 and above,41 and above,Known,0.01992,0.426295,0.494024,0.940239,Yes
@@ -478,9 +478,9 @@
 0.17359359,24742,Beverage,Coca Cola,Utah,United States,Email,5/1/2014,26-01-2014,26-01-2014,3,100000,USD 50000 - 99999,USD 0,41 and above,Unknown,0.092683,0.907317,0,1,No
 0.186755912,534,Biscuit,Ritz,Utah,United States,Email,10/1/2014,25-01-2014,25-01-2014,3,101000,USD 0 - 9999,USD 200000 and above,0 to 10,Known,0.954545,0.045455,0,1,No
 0.393226968,37720,Biscuit,Ritz,Oregon,United States,Email,3/1/2014,8/1/2014,8/1/2014,3,44134,USD 0 - 9999,USD 25000 - 99999,0 to 10,None,0,0,1,1,Yes
-0.758868103,23454,Biscuit,Arbo,Arizona,United States,Email,11/1/2014,24-01-2014,31-01-2014,5,13844,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0.682051,0.682051,No
-0.218500231,39869,Beverage,Coca Cola,Utah,United States,Email,13-01-2014,15-01-2014,15-01-2014,2,1,USD 25000 - 49999,USD 0,21 to 30,Known,0,1,0,1,No
-0.160914238,21633,Biscuit,Nabisco,Montana,United States,Email,1/1/2014,14-01-2014,14-01-2014,3,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.323308,0.676692,0,1,No
+0.758868103,23454,Biscuit,Arbo,Arizona,United States,Email,11/1/2014,24-01-2014,31-01-2014,5,13844,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0.682051,0.682051,Yes
+0.218500231,39869,Beverage,Coca Cola,Utah,United States,Email,13-01-2014,15-01-2014,15-01-2014,2,1,USD 25000 - 49999,USD 0,21 to 30,Known,0,1,0,1,Yes
+0.160914238,21633,Biscuit,Nabisco,Montana,United States,Email,1/1/2014,14-01-2014,14-01-2014,3,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.323308,0.676692,0,1,Yes
 0.741517449,21809,Biscuit,Chips Ahoy,Utah,United States,Email,24-01-2014,12/2/2014,12/2/2014,3,61349,USD 25000 - 49999,USD 0,11 to 20,Unknown,0.359788,0.640212,0,1,No
 0.060868926,29821,Beverage,Coca Cola,Oregon,United States,Email,15-01-2014,2/3/2014,2/3/2014,5,105000,USD 0 - 9999,USD 0,0 to 10,None,0.023861,0.522777,0.453362,1,No
 0.159958498,16966,Beverage,Fanta,Utah,United States,Email,1/1/2014,6/1/2014,6/1/2014,5,1840,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
@@ -500,7 +500,7 @@
 0.291605978,20046,Beverage,Pepsi,California,United States,Email,5/1/2014,6/1/2014,6/1/2014,2,90000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.918223423,43428,Biscuit,Chips Ahoy,Arizona,United States,Email,8/1/2014,9/1/2014,9/1/2014,2,15000,USD 0 - 9999,USD 0,0 to 10,Known,1,0,0,1,No
 0.004428628,36247,Beverage,Fanta,California,United States,Email,21-01-2014,23-02-2014,23-02-2014,5,500000,USD 10000 - 24999,USD 0,11 to 20,Known,0.369231,0.630769,0,1,No
-0.565559921,14132,Biscuit,Chips Ahoy,Texas,United States,Email,5/1/2014,18-01-2014,18-01-2014,2,20000,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
+0.565559921,14132,Biscuit,Chips Ahoy,Texas,United States,Email,5/1/2014,18-01-2014,18-01-2014,2,20000,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,Yes
 0.647581639,20652,Beverage,Fanta,Utah,United States,Email,29-01-2014,24-02-2014,24-02-2014,4,61349,USD 50000 - 99999,USD 0,11 to 20,Unknown,0,0.015444,0.984556,1,Yes
 0.011966092,25514,Biscuit,Nabisco,Utah,United States,Email,7/1/2014,16-01-2014,16-01-2014,2,8000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.372711483,7614,Biscuit,Nabisco,California,United States,Email,2/1/2014,3/2/2014,3/2/2014,4,100009,USD 0 - 9999,USD 0,11 to 20,None,0,1,0,1,No
@@ -514,7 +514,7 @@
 0.549720934,20392,Biscuit,Covenant,California,United States,Email,29-01-2014,4/2/2014,6/2/2014,3,106000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,0,0,0.818182,0.818182,Yes
 0.202366845,29931,Milk,TruMoo,Utah,United States,Email,4/1/2014,10/2/2014,10/2/2014,5,245398,USD 0 - 9999,USD 0,0 to 10,Known,0.002681,0.785523,0.211796,1,No
 0.984682086,42364,Biscuit,Covenant,Washington,United States,Email,30-01-2014,19-02-2014,19-02-2014,4,60000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.19797,0.80203,1,No
-0.831483864,15918,Biscuit,Nabisco,Washington,United States,Email,2/1/2014,7/1/2014,7/1/2014,2,170000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.831483864,15918,Biscuit,Nabisco,Washington,United States,Email,2/1/2014,7/1/2014,7/1/2014,2,170000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.330354433,25129,Biscuit,Ritz,California,United States,Email,21-01-2014,15-03-2014,15-03-2014,2,465044,USD 50000 - 99999,USD 0,41 and above,Unknown,0,1,0,1,No
 0.6011325,45176,Biscuit,Ritz,California,United States,Email,7/1/2014,10/2/2014,10/2/2014,5,300000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.588235,0.411765,1,No
 0.42439729,7435,Biscuit,Covenant,California,United States,Email,31-01-2014,4/3/2014,4/3/2014,3,200000,USD 50000 - 99999,USD 0,11 to 20,Unknown,0.660317,0.339683,0,1,No
@@ -533,7 +533,7 @@
 0.3202894,25009,Beverage,Fanta,Utah,United States,Email,15-01-2014,27-02-2014,27-02-2014,4,100000,USD 100000 - 249999,USD 0,31 to 40,Known,0,0.439535,0.560465,1,No
 0.205532394,28266,Biscuit,Ritz,Texas,United States,Email,31-01-2014,14-02-2014,14-02-2014,2,100416,USD 0 - 9999,USD 0,0 to 10,None,0,0,1,1,Yes
 0.650413566,33061,Biscuit,Nabisco,Arizona,United States,Email,19-01-2014,20-01-2014,21-01-2014,3,10000,USD 50000 - 99999,USD 1 - 24999,31 to 40,None,0.208333,0,0,0.208333,Yes
-0.550547885,8609,Beverage,Fanta,Utah,United States,Email,7/1/2014,16-01-2014,16-01-2014,2,92024,USD 100000 - 249999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.550547885,8609,Beverage,Fanta,Utah,United States,Email,7/1/2014,16-01-2014,16-01-2014,2,92024,USD 100000 - 249999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.370208678,12754,Biscuit,Covenant,Utah,United States,Email,2/1/2014,8/1/2014,8/1/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.142814875,375,Beverage,Fanta,Utah,United States,Email,31-01-2014,18-02-2014,18-02-2014,3,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.586592,0.413408,0,1,No
 0.560728434,274,Biscuit,Arbo,Texas,United States,Email,8/1/2014,9/1/2014,9/1/2014,3,43000,USD 0 - 9999,USD 1 - 24999,0 to 10,Unknown,0,0.846154,0,0.846154,Yes
@@ -541,15 +541,15 @@
 0.60698736,18560,Biscuit,Nabisco,Utah,United States,Email,18-01-2014,19-01-2014,19-01-2014,2,155000,USD 50000 - 99999,USD 0,31 to 40,Unknown,0,0,1,1,Yes
 0.664855697,11909,Biscuit,Arbo,Washington,United States,Email,27-01-2014,6/2/2014,6/2/2014,3,440000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.183673,0.816327,1,No
 0.233600702,21307,Biscuit,Covenant,Oregon,United States,Email,23-01-2014,18-02-2014,18-02-2014,3,40,USD 25000 - 49999,USD 0,41 and above,Unknown,0.522901,0.477099,0,1,No
-0.920331694,22397,Biscuit,Nabisco,Utah,United States,Email,5/1/2014,18-03-2014,18-03-2014,2,101000,USD 100000 - 249999,USD 0,41 and above,Unknown,0,1,0,1,No
-0.60558207,25864,Beverage,Coca Cola,Texas,United States,Email,5/1/2014,20-02-2014,20-02-2014,2,300000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.920331694,22397,Biscuit,Nabisco,Utah,United States,Email,5/1/2014,18-03-2014,18-03-2014,2,101000,USD 100000 - 249999,USD 0,41 and above,Unknown,0,1,0,1,Yes
+0.60558207,25864,Beverage,Coca Cola,Texas,United States,Email,5/1/2014,20-02-2014,20-02-2014,2,300000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.630316488,4856,Biscuit,Arbo,Oregon,United States,Email,13-01-2014,2/2/2014,2/2/2014,2,6000,USD 25000 - 49999,USD 0,21 to 30,Unknown,1,0,0,1,No
 0.446609597,14700,Biscuit,Nabisco,Arizona,United States,Email,10/1/2014,13-02-2014,13-02-2014,4,50000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.038012,0.961988,1,No
 0.584240334,26925,Biscuit,Ritz,California,United States,Email,10/1/2014,10/2/2014,10/2/2014,4,120000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.710334126,22934,Beverage,Fanta,Texas,United States,Email,12/1/2014,14-03-2014,14-03-2014,6,60000,USD 10000 - 24999,USD 0,11 to 20,Known,0.559934,0.440066,0,1,No
 0.982749743,12000,Biscuit,Nabisco,Utah,United States,Email,27-01-2014,4/2/2014,4/2/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
 0.374357328,33877,Biscuit,Ritz,Utah,United States,Email,14-01-2014,8/2/2014,8/2/2014,7,50306,USD 0 - 9999,USD 1 - 24999,0 to 10,Unknown,0,0.282258,0.717742,1,Yes
-0.531767389,27549,Beverage,Fanta,Montana,United States,Email,3/1/2014,6/2/2014,6/2/2014,2,80000,USD 25000 - 49999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.531767389,27549,Beverage,Fanta,Montana,United States,Email,3/1/2014,6/2/2014,6/2/2014,2,80000,USD 25000 - 49999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.362522108,16524,Beverage,Pepsi,California,United States,Email,6/1/2014,9/1/2014,9/1/2014,2,225228,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.273922618,25098,Biscuit,Covenant,Montana,United States,Email,12/1/2014,27-02-2014,27-02-2014,4,30000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.877193,0.122807,1,Yes
 0.085911289,31848,Beverage,Coca Cola,Washington,United States,Email,29-01-2014,4/2/2014,4/2/2014,2,20000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
@@ -573,10 +573,10 @@
 0.513648947,10583,Biscuit,Covenant,Montana,United States,Email,4/1/2014,7/1/2014,7/1/2014,3,14000,USD 0 - 9999,USD 1 - 24999,0 to 10,Known,0,0,1,1,Yes
 0.36763373,41351,Beverage,Fanta,Washington,United States,Email,17-01-2014,31-01-2014,31-01-2014,2,250000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.424776976,22003,Beverage,Fanta,Arizona,United States,Email,5/1/2014,21-01-2014,21-01-2014,2,100000,USD 100000 - 249999,USD 0,41 and above,Known,0,1,0,1,No
-0.471669498,32563,Beverage,Pepsi,Montana,United States,Email,20-01-2014,15-02-2014,15-02-2014,2,0,USD 0 - 9999,USD 0,0 to 10,None,0,1,0,1,No
+0.471669498,32563,Beverage,Pepsi,Montana,United States,Email,20-01-2014,15-02-2014,15-02-2014,2,0,USD 0 - 9999,USD 0,0 to 10,None,0,1,0,1,Yes
 0.471240802,42461,Biscuit,Ritz,Montana,United States,Email,18-01-2014,19-01-2014,19-01-2014,2,50000,USD 0 - 9999,USD 0,0 to 10,Known,0,1,0,1,No
 0.942671656,1631,Beverage,Fanta,Arizona,United States,Email,23-01-2014,26-01-2014,26-01-2014,2,35000,USD 0 - 9999,USD 0,11 to 20,Unknown,1,0,0,1,No
-0.054257367,16403,Biscuit,Covenant,Texas,United States,Email,17-01-2014,17-01-2014,17-01-2014,1,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,No
+0.054257367,16403,Biscuit,Covenant,Texas,United States,Email,17-01-2014,17-01-2014,17-01-2014,1,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,Yes
 0.607410897,14786,Beverage,Fanta,Arizona,United States,Email,13-01-2014,10/2/2014,10/2/2014,3,110000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.280142,0.719858,1,No
 0.47461311,27486,Biscuit,Ritz,Texas,United States,Email,4/1/2014,10/1/2014,10/1/2014,2,240000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.016503326,6383,Beverage,Fanta,Utah,United States,Email,25-01-2014,13-02-2014,13-02-2014,2,110000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
@@ -585,14 +585,14 @@
 0.929711641,5186,Biscuit,Chips Ahoy,Washington,United States,Email,20-01-2014,1/2/2014,1/2/2014,2,500000,USD 25000 - 49999,USD 0,21 to 30,Unknown,0,1,0,1,No
 0.41373595,44352,Biscuit,Chips Ahoy,Oregon,United States,Email,26-01-2014,1/2/2014,1/2/2014,3,0,USD 0 - 9999,USD 0,0 to 10,Known,0,0.327869,0.672131,1,No
 0.976417764,40014,Beverage,Pepsi,California,United States,Email,9/1/2014,20-01-2014,20-01-2014,2,52000,USD 0 - 9999,USD 0,0 to 10,Known,0,0,1,1,No
-0.801831278,14940,Biscuit,Ritz,Utah,United States,Email,28-01-2014,6/2/2014,6/2/2014,3,19348,USD 0 - 9999,USD 0,0 to 10,Known,0,0.538462,0.461538,1,No
+0.801831278,14940,Biscuit,Ritz,Utah,United States,Email,28-01-2014,6/2/2014,6/2/2014,3,19348,USD 0 - 9999,USD 0,0 to 10,Known,0,0.538462,0.461538,1,Yes
 0.141364908,29848,Biscuit,Arbo,Oregon,United States,Email,11/1/2014,2/2/2014,2/2/2014,2,300000,USD 0 - 9999,USD 200000 and above,31 to 40,Unknown,1,0,0,1,No
 0.759841697,8074,Beverage,Fanta,California,United States,Email,20-01-2014,21-01-2014,21-01-2014,2,15501,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.09006725,12738,Beverage,Fanta,Utah,United States,Email,13-01-2014,16-01-2014,16-01-2014,2,150000,USD 100000 - 249999,USD 200000 and above,0 to 10,Unknown,1,0,0,1,No
 0.470239093,19294,Beverage,Coca Cola,Arizona,United States,Email,30-01-2014,10/2/2014,10/2/2014,2,40000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.487706068,973,Beverage,Coca Cola,Montana,United States,Email,14-01-2014,20-01-2014,20-01-2014,3,101000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.918033,0.081967,1,No
 0.620209058,10544,Beverage,Coca Cola,Washington,United States,Email,13-01-2014,24-01-2014,24-01-2014,2,25000,USD 0 - 9999,USD 0,0 to 10,None,0,1,0,1,No
-0.354181351,27303,Beverage,Coca Cola,Texas,United States,Email,15-01-2014,25-01-2014,25-01-2014,4,200000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.349515,0.650485,1,No
+0.354181351,27303,Beverage,Coca Cola,Texas,United States,Email,15-01-2014,25-01-2014,25-01-2014,4,200000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.349515,0.650485,1,Yes
 0.624900324,7941,Biscuit,Nabisco,Montana,United States,Email,14-01-2014,9/2/2014,9/2/2014,7,316941,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.708171,0.291829,1,No
 0.553386798,31905,Biscuit,Chips Ahoy,California,United States,Email,12/1/2014,24-01-2014,24-01-2014,3,30000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.057377,0.942623,0,1,No
 0.230161957,7144,Biscuit,Ritz,Utah,United States,Email,20-01-2014,5/2/2014,5/2/2014,2,10000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
@@ -604,7 +604,7 @@
 0.664842263,2780,Beverage,Coca Cola,Oregon,United States,Email,18-01-2014,19-01-2014,19-01-2014,2,30000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.952402366,18635,Biscuit,Nabisco,California,United States,Email,15-01-2014,19-01-2014,19-01-2014,2,50000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.774110541,36244,Biscuit,Covenant,Washington,United States,Email,15-01-2014,17-03-2014,17-03-2014,7,697674,USD 100000 - 249999,USD 0,11 to 20,Unknown,0.130719,0.767974,0.101307,1,No
-0.467357399,21255,Beverage,Coca Cola,Utah,United States,Email,24-01-2014,24-01-2014,24-01-2014,2,5000,USD 50000 - 99999,USD 0,21 to 30,Unknown,0,0,0,0,No
+0.467357399,21255,Beverage,Coca Cola,Utah,United States,Email,24-01-2014,24-01-2014,24-01-2014,2,5000,USD 50000 - 99999,USD 0,21 to 30,Unknown,0,0,0,0,Yes
 0.351327275,20530,Beverage,Coca Cola,California,United States,Email,1/1/2014,9/1/2014,9/1/2014,2,105000,USD 10000 - 24999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.044320375,22856,Biscuit,Nabisco,Texas,United States,Email,14-01-2014,14-01-2014,14-01-2014,2,1,USD 25000 - 49999,USD 0,11 to 20,Unknown,0,0,0,0,No
 0.333020385,36505,Beverage,Fanta,California,United States,Email,16-01-2014,8/2/2014,8/2/2014,2,100000,USD 0 - 9999,USD 200000 and above,0 to 10,Unknown,1,0,0,1,No
@@ -613,7 +613,7 @@
 0.278315911,41194,Biscuit,Covenant,Texas,United States,Email,3/1/2014,3/1/2014,3/1/2014,2,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,0,0,No
 0.780015689,21946,Beverage,Fanta,California,United States,Email,31-01-2014,18-02-2014,18-02-2014,2,85258,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.809460824,15370,Biscuit,Covenant,Washington,United States,Email,9/1/2014,18-01-2014,18-01-2014,4,20000,USD 50000 - 99999,USD 0,0 to 10,Unknown,0,0.126437,0.873563,1,No
-0.564878946,38688,Beverage,Pepsi,Oregon,United States,Email,2/1/2014,14-03-2014,14-03-2014,2,115000,USD 0 - 9999,USD 0,41 and above,Known,0,1,0,1,No
+0.564878946,38688,Beverage,Pepsi,Oregon,United States,Email,2/1/2014,14-03-2014,14-03-2014,2,115000,USD 0 - 9999,USD 0,41 and above,Known,0,1,0,1,Yes
 0.118372634,40418,Beverage,Coca Cola,California,United States,Email,31-01-2014,3/2/2014,3/2/2014,2,101000,USD 0 - 9999,USD 100000 - 199999,0 to 10,Unknown,0,1,0,1,No
 0.706398123,22752,Biscuit,Covenant,Montana,United States,Email,20-01-2014,15-02-2014,15-02-2014,2,30000,USD 50000 - 99999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.287057277,32272,Beverage,Coca Cola,California,United States,Email,14-01-2014,25-01-2014,27-01-2014,5,12711,USD 50000 - 99999,USD 25000 - 99999,0 to 10,Unknown,0.055556,0.238095,0.579365,0.873016,Yes
@@ -632,7 +632,7 @@
 0.11437539,41456,Beverage,Fanta,Washington,United States,Email,6/1/2014,6/1/2014,6/1/2014,3,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0,1,1,No
 0.84547583,19547,Biscuit,Covenant,California,United States,Email,12/1/2014,1/2/2014,1/2/2014,2,31002,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.746757603,41613,Biscuit,Chips Ahoy,Washington,United States,Email,29-01-2014,26-02-2014,26-02-2014,2,51000,USD 50000 - 99999,USD 0,41 and above,Unknown,1,0,0,1,No
-0.629133077,18798,Biscuit,Ritz,California,United States,Email,7/1/2014,3/2/2014,3/2/2014,3,10000,USD 0 - 9999,USD 0,0 to 10,None,0.945255,0.054745,0,1,No
+0.629133077,18798,Biscuit,Ritz,California,United States,Email,7/1/2014,3/2/2014,3/2/2014,3,10000,USD 0 - 9999,USD 0,0 to 10,None,0.945255,0.054745,0,1,Yes
 0.808696239,7747,Beverage,Coca Cola,Washington,United States,Email,20-01-2014,24-01-2014,24-01-2014,2,8333,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.616644545,32788,Biscuit,Nabisco,California,United States,Email,17-01-2014,26-01-2014,26-01-2014,2,40000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.645966528,2864,Biscuit,Oreo,Utah,United States,Email,24-01-2014,19-02-2014,19-02-2014,2,60000,USD 0 - 9999,USD 0,21 to 30,Known,0,1,0,1,No
@@ -658,7 +658,7 @@
 0.572224395,10086,Biscuit,Ritz,Washington,United States,Email,3/1/2014,10/1/2014,10/1/2014,3,18072,USD 50000 - 99999,USD 0,41 and above,None,0.043478,0.956522,0,1,No
 0.440454871,45092,Biscuit,Arbo,Utah,United States,Email,10/1/2014,19-01-2014,19-01-2014,2,150000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.805554174,20608,Biscuit,Arbo,Washington,United States,Email,15-01-2014,21-01-2014,21-01-2014,2,15000,USD 0 - 9999,USD 0,0 to 10,None,0,1,0,1,No
-0.766208075,29457,Biscuit,Chips Ahoy,Utah,United States,Email,15-01-2014,20-01-2014,20-01-2014,3,51000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.730769,0.269231,1,No
+0.766208075,29457,Biscuit,Chips Ahoy,Utah,United States,Email,15-01-2014,20-01-2014,20-01-2014,3,51000,USD 0 - 9999,USD 0,0 to 10,Known,0,0.730769,0.269231,1,Yes
 0.556975534,33457,Biscuit,Covenant,Utah,United States,Email,21-01-2014,7/2/2014,7/2/2014,3,30000,USD 10000 - 24999,USD 0,0 to 10,Unknown,0,0.5,0.5,1,No
 0.112384559,33597,Biscuit,Nabisco,California,United States,Email,25-01-2014,7/3/2014,7/3/2014,5,30000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.617073,0.382927,0,1,No
 0.706634819,9252,Beverage,Fanta,Utah,United States,Email,4/1/2014,6/1/2014,6/1/2014,3,400000,USD 0 - 9999,USD 0,0 to 10,Known,0.3125,0.6875,0,1,No
@@ -678,7 +678,7 @@
 0.9930283,7235,Biscuit,Oreo,Utah,United States,Email,19-01-2014,19-02-2014,19-02-2014,3,45500,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.235688039,36527,Biscuit,Covenant,California,United States,Email,21-01-2014,25-01-2014,25-01-2014,2,56178,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.985775476,20404,Biscuit,Ritz,Utah,United States,Email,15-01-2014,24-01-2014,24-01-2014,2,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
-0.325312778,10381,Beverage,Fanta,Montana,United States,Email,8/1/2014,3/3/2014,3/3/2014,5,150000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.142066,0.857934,0,1,No
+0.325312778,10381,Beverage,Fanta,Montana,United States,Email,8/1/2014,3/3/2014,3/3/2014,5,150000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.142066,0.857934,0,1,Yes
 0.51484155,40069,Beverage,Fanta,Arizona,United States,Email,28-01-2014,8/3/2014,8/3/2014,2,0,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.063054609,33103,Beverage,Fanta,Oregon,United States,Email,11/1/2014,13-01-2014,13-01-2014,2,120000,USD 0 - 9999,USD 100000 - 199999,0 to 10,Unknown,1,0,0,1,No
 0.877333312,14557,Biscuit,Covenant,Montana,United States,Email,22-01-2014,26-01-2014,26-01-2014,4,25000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.085714,0.914286,1,Yes
@@ -698,7 +698,7 @@
 0.692408882,24521,Beverage,Coca Cola,Arizona,United States,Email,2/1/2014,2/1/2014,2/1/2014,1,20151,USD 0 - 9999,USD 0,0 to 10,None,0,0,0,0,No
 0.393201066,30993,Biscuit,Arbo,Washington,United States,Email,16-01-2014,23-02-2014,23-02-2014,4,20000,USD 0 - 9999,USD 0,0 to 10,None,0.021164,0.351852,0.626984,1,No
 0.187171744,35747,Biscuit,Arbo,Arizona,United States,Email,15-01-2014,5/2/2014,5/2/2014,2,30000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
-0.760228136,32024,Biscuit,Arbo,Utah,United States,Email,16-01-2014,20-02-2014,20-02-2014,2,40000,USD 100000 - 249999,USD 0,21 to 30,Unknown,1,0,0,1,No
+0.760228136,32024,Biscuit,Arbo,Utah,United States,Email,16-01-2014,20-02-2014,20-02-2014,2,40000,USD 100000 - 249999,USD 0,21 to 30,Unknown,1,0,0,1,Yes
 0.22385227,2696,Biscuit,Covenant,Utah,United States,Email,30-01-2014,4/2/2014,4/2/2014,2,50000,USD 0 - 9999,USD 0,11 to 20,Unknown,0,1,0,1,No
 0.235157088,19122,Biscuit,Arbo,Utah,United States,Email,30-01-2014,18-02-2014,18-02-2014,2,20000,USD 0 - 9999,USD 0,41 and above,Unknown,1,0,0,1,No
 0.581500761,8695,Biscuit,Covenant,Montana,United States,Email,29-01-2014,25-02-2014,25-02-2014,2,105000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
@@ -708,14 +708,14 @@
 0.928593787,19617,Beverage,Fanta,Oregon,United States,Email,7/1/2014,16-02-2014,16-02-2014,6,290000,USD 0 - 9999,USD 100000 - 199999,41 and above,Unknown,0.4575,0.125,0.4175,1,No
 0.827979982,35958,Milk,TruMoo,Montana,United States,Email,17-01-2014,8/2/2014,8/2/2014,3,100000,USD 0 - 9999,USD 0,0 to 10,Unknown,0.183486,0.816514,0,1,No
 0.485958673,33458,Biscuit,Nabisco,Utah,United States,Email,26-01-2014,7/2/2014,7/2/2014,3,110000,USD 100000 - 249999,USD 100000 - 199999,0 to 10,Unknown,0,1,0,1,No
-0.203815564,13798,Biscuit,Covenant,Washington,United States,Email,20-01-2014,6/3/2014,6/3/2014,5,39473,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.249443,0.750557,1,No
+0.203815564,13798,Biscuit,Covenant,Washington,United States,Email,20-01-2014,6/3/2014,6/3/2014,5,39473,USD 0 - 9999,USD 0,0 to 10,Unknown,0,0.249443,0.750557,1,Yes
 0.413752925,20616,Biscuit,Arbo,California,United States,Email,3/1/2014,13-01-2014,13-01-2014,2,200000,USD 0 - 9999,USD 0,0 to 10,Unknown,0,1,0,1,No
 0.626395695,37493,Beverage,Coca Cola,Montana,United States,Email,4/1/2014,4/1/2014,4/1/2014,1,253,USD 0 - 9999,USD 0,0 to 10,None,0,0,0,0,Yes
 0.102590297,24605,Beverage,Pepsi,Texas,United States,Email,27-01-2014,19-02-2014,22-02-2014,5,18000,USD 0 - 9999,USD 200000 and above,0 to 10,None,0,0.243243,0.633205,0.876448,Yes
 0.908197968,20536,Beverage,Fanta,Washington,United States,Email,28-01-2014,7/2/2014,7/2/2014,2,30000,USD 0 - 9999,USD 0,11 to 20,Known,1,0,0,1,No
 0.920573163,19594,Beverage,Fanta,Oregon,United States,Email,6/1/2014,21-01-2014,21-01-2014,2,30000,USD 10000 - 24999,USD 0,11 to 20,Known,1,0,0,1,No
 0.538480955,5411,Biscuit,Nabisco,Utah,United States,Email,16-01-2014,13-02-2014,13-02-2014,2,50000,USD 10000 - 24999,USD 0,41 and above,Known,0,1,0,1,No
-0.95331393,30904,Beverage,Fanta,Utah,United States,Email,18-01-2014,4/2/2014,4/2/2014,2,110000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,No
+0.95331393,30904,Beverage,Fanta,Utah,United States,Email,18-01-2014,4/2/2014,4/2/2014,2,110000,USD 0 - 9999,USD 0,0 to 10,Unknown,1,0,0,1,Yes
 0.848187841,42948,Biscuit,Arbo,California,United States,Email,13-01-2014,6/2/2014,6/2/2014,4,162765,USD 100000 - 249999,USD 0,31 to 40,None,1,0,0,1,No
 0.993608796,7725,Biscuit,Covenant,Utah,United States,Email,28-01-2014,9/2/2014,9/2/2014,2,100000,USD 25000 - 49999,USD 0,0 to 10,Unknown,1,0,0,1,No
 0.154749794,11051,Biscuit,Nabisco,Arizona,United States,Email,31-01-2014,4/2/2014,4/2/2014,3,97000,USD 25000 - 49999,USD 0,21 to 30,None,0,0,1,1,Yes
